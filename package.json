@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "3.2.11",
+	"version": "3.2.12",
 	"description": "ctx-core currency",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,8 +30,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/logger": "^3.1.10",
-		"@ctx-core/number": "^3.1.4",
-		"@ctx-core/object": "^6.3.4"
+		"@ctx-core/number": "^3.1.5",
+		"@ctx-core/object": "^6.3.5"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.3"
