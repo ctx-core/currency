@@ -2,7 +2,6 @@
 	"name": "@ctx-core/currency",
 	"version": "3.2.36",
 	"description": "ctx-core currency",
-	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
