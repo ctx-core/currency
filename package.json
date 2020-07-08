@@ -2,9 +2,9 @@
 	"name": "@ctx-core/currency",
 	"version": "3.2.42",
 	"description": "ctx-core currency",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
