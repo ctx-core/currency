@@ -7,7 +7,7 @@
  * @See {@link https://github.com/bengourley/currency-symbol-map}
  * @See {@link https://raw.githubusercontent.com/bengourley/currency-symbol-map/master/map.js}
  */
-import { currency_code_ctx_type } from './currency_code_ctx_type'
+import type { currency_code_ctx_type } from './currency_code_ctx_type'
 import { currencies } from './currencies'
 export function _currency_symbol(currency_code_?:currency_code_ctx_type|string) {
 	const currency_code =

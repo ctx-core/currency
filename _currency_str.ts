@@ -1,6 +1,6 @@
 import { _currency_symbol } from './_currency_symbol'
 import { _money_str } from './_money_str'
-import { currency_str_default_opts_type } from './currency_str_default_opts_type'
+import type { currency_str_default_opts_type } from './currency_str_default_opts_type'
 /**
  * Formats currency to USD ($) with commas
  * @param {string|number} amount - The currency amount to be outputted

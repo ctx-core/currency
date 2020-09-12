@@ -1,4 +1,4 @@
-import { currency_str_default_opts_type } from './currency_str_default_opts_type';
+import type { currency_str_default_opts_type } from './currency_str_default_opts_type';
 /**
  * Remove currency delimiter & commas from string representing amount.
  * @param {string|number} amount
