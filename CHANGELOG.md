@@ -1,5 +1,13 @@
 # @ctx-core/currency
 
+## 5.0.10
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.9
+
 ## 5.0.9
 
 ### Patch Changes
