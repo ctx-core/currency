@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "5.0.7",
+	"version": "5.0.8",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/number": "workspace:^5.0.0",
-		"@ctx-core/object": "workspace:^12.0.6"
+		"@ctx-core/object": "workspace:^12.0.7"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.3"
