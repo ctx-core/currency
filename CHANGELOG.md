@@ -1,5 +1,16 @@
 # @ctx-core/currency
 
+## 5.1.0
+
+### Minor Changes
+
+- interface instead of type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@13.1.0
+
 ## 5.0.18
 
 ### Patch Changes
