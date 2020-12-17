@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 6.0.0
+
+### Major Changes
+
+- \_\_curency_str->\_currency_str_fn
+
+### Minor Changes
+
+- feat: currencies_type
+
 ## 5.1.5
 
 ### Patch Changes
