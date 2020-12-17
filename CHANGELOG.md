@@ -1,5 +1,18 @@
 # @ctx-core/currency
 
+## 6.1.0
+
+### Minor Changes
+
+- feat: currencies_type
+
+### Patch Changes
+
+- using export as instead of export const
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.4
+
 ## 6.0.0
 
 ### Major Changes
