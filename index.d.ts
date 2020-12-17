@@ -1,5 +1,5 @@
-export * from './__curency_str';
 export * from './_currency_str';
+export * from './_currency_str_fn';
 export * from './_currency_symbol';
 export * from './_money_str';
 export * from './_unformat_currency_str';

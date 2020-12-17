@@ -3,9 +3,6 @@ import { _currency_symbol } from './_currency_symbol'
 import type { currency_str_default_opts_type } from './currency_str_default_opts_type'
 /**
  * Remove currency delimiter & commas from string representing amount.
- * @param {string|number} amount
- * @param opts
- * @returns {string}
  */
 export function _unformat_currency_str(amount:string|number, opts?:currency_str_default_opts_type) {
 	return (
@@ -19,4 +16,6 @@ export function _unformat_currency_str(amount:string|number, opts?:currency_str_
 		)
 	)
 }
-export const unformat__currency = _unformat_currency_str
+export {
+	_unformat_currency_str as unformat__currency
+}
