@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 6.1.6
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.0.5
+  - @ctx-core/object@15.0.10
+
 ## 6.1.5
 
 ### Patch Changes
