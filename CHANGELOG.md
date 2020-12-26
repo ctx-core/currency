@@ -1,5 +1,12 @@
 # @ctx-core/currency
 
+## 6.1.7
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.1.0
+
 ## 6.1.6
 
 ### Patch Changes
