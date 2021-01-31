@@ -1,5 +1,16 @@
 # @ctx-core/currency
 
+## 7.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.0.0
+
 ## 6.1.22
 
 ### Patch Changes
