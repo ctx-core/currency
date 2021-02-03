@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 7.0.3
+
+### Patch Changes
+
+- @ctx-core/object@17.0.2
+
 ## 7.0.2
 
 ### Patch Changes
