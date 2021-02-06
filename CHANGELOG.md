@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 7.0.4
+
+### Patch Changes
+
+- fix: \_currency_str: amount: string|number
+
 ## 7.0.3
 
 ### Patch Changes
