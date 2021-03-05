@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 7.0.20
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.4.5
+  - @ctx-core/object@17.3.1
+
 ## 7.0.19
 
 ### Patch Changes
