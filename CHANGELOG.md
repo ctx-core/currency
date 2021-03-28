@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 7.0.23
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.4.6
+  - @ctx-core/object@17.4.1
+
 ## 7.0.22
 
 ### Patch Changes
