@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "7.0.23",
+	"version": "7.0.24",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -27,13 +27,14 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/number": "workspace:^5.4.6",
-		"@ctx-core/object": "workspace:^17.4.1"
+		"@ctx-core/number": "workspace:^5.4.7",
+		"@ctx-core/object": "workspace:^17.4.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }
