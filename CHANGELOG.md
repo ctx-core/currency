@@ -1,5 +1,13 @@
 # @ctx-core/currency
 
+## 7.0.35
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.5.13
+
 ## 7.0.34
 
 ### Patch Changes
