@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 7.0.40
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.39
 
 ### Patch Changes
