@@ -1,16 +1,16 @@
-import { format__commas, isNumber } from '@ctx-core/number'
-import type { money_str_opts_type } from './money_str_opts_type'
+import { _comma_number_str, isNumber } from '@ctx-core/number'
+import type { money_str_params_I } from './money_str_params_I'
 /**
  * Formats money value with commas (no currency type)
  */
-export function _money_str(amount, opts?:money_str_opts_type) {
+export function _money_str(amount:number, params?:money_str_params_I) {
 	const digits =
-		isNumber(opts && opts.digits)
-		? (opts && opts.digits)
+		isNumber(params && params.digits)
+		? (params && params.digits)
 		: 2
 	return (
 		amount
-		&& format__commas(amount.toFixed(digits))
+		&& _comma_number_str(amount.toFixed(digits))
 	)
 }
 export {

@@ -1,18 +1,18 @@
 import { unformat__commas } from '@ctx-core/number'
 import { _currency_symbol } from './_currency_symbol'
-import type { currency_str_default_opts_type } from './currency_str_default_opts_type'
+import type { currency_str_default_params_I } from './currency_str_default_params_I'
 /**
  * Remove currency delimiter & commas from string representing amount.
  */
-export function _unformat_currency_str(amount:string|number, opts?:currency_str_default_opts_type) {
+export function _unformat_currency_str(amount:string|number, params?:currency_str_default_params_I) {
 	return (
 		amount == null
-		? ((opts && opts.default) || amount)
+		? ((params && params.default) || amount)
 		: (
 			unformat__commas(
 				amount
 					.toString()
-					.replace(_currency_symbol(opts), ''))
+					.replace(_currency_symbol(params), ''))
 		)
 	)
 }
