@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 7.1.10
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.5.3
+  - @ctx-core/object@18.0.6
+
 ## 7.1.9
 
 ### Patch Changes
