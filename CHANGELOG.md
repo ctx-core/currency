@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 7.3.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.7.1
+  - @ctx-core/object@18.2.1
+
 ## 7.3.0
 
 ### Minor Changes
