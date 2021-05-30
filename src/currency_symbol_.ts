@@ -1,17 +1,17 @@
+import type { currency_code_ctx_T } from './currency_code_ctx_T'
+import { currencies } from './currencies'
 /**
  * Returns the symbol for the given `currency_code_.currency`. Defaults to `$`
  * @See {@link https://github.com/bengourley/currency-symbol-map}
  * @See {@link https://raw.githubusercontent.com/bengourley/currency-symbol-map/master/map.js}
  */
-import type { currency_code_ctx_type } from './currency_code_ctx_type'
-import { currencies } from './currencies'
-export function _currency_symbol(currency_code_?:currency_code_ctx_type|string) {
+export function currency_symbol_(currency_code_?:currency_code_ctx_T|string) {
 	const currency_code =
 		(
 			currency_code_
 			&& (
-				(currency_code_ as currency_code_ctx_type).currency_code
-				|| (currency_code_ as currency_code_ctx_type).currency)
+				(currency_code_ as currency_code_ctx_T).currency_code
+				|| (currency_code_ as currency_code_ctx_T).currency)
 		)
 		|| currency_code_
 	const currency_symbol =
@@ -20,5 +20,6 @@ export function _currency_symbol(currency_code_?:currency_code_ctx_type|string) 
 	return currency_symbol
 }
 export {
-	_currency_symbol as _symbol__currency
+	currency_symbol_ as _currency_symbol,
+	currency_symbol_ as _symbol__currency,
 }
