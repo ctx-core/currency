@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/number": "workspace:^6.0.0",
-		"@ctx-core/object": "workspace:^19.0.1"
+		"@ctx-core/object": "workspace:^19.0.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.2"
