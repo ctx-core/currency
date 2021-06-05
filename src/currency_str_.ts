@@ -8,7 +8,9 @@ import type { currency_str_default_params_I } from './currency_str_default_param
  * @example
  * currency_str_(1000000, {digits: 0}) // $1,000,000
  */
-export function currency_str_(amount:string|number, params?:currency_str_default_params_I|string) {
+export function currency_str_(
+	amount:string|number, params?:currency_str_default_params_I|string
+):string {
 	const amount_num = parseFloat(amount as string)
 	return (
 		Number.isNaN(amount_num)

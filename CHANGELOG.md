@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 8.0.1
+
+### Patch Changes
+
+- fix: return types
+
 ## 8.0.0
 
 ### Major Changes

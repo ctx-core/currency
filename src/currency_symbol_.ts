@@ -5,7 +5,7 @@ import { currencies } from './currencies'
  * @See {@link https://github.com/bengourley/currency-symbol-map}
  * @See {@link https://raw.githubusercontent.com/bengourley/currency-symbol-map/master/map.js}
  */
-export function currency_symbol_(currency_code_?:currency_code_ctx_T|string) {
+export function currency_symbol_(currency_code_?:currency_code_ctx_T|string):string {
 	const currency_code =
 		(
 			currency_code_
