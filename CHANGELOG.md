@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 8.0.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/number@6.0.1
+  - @ctx-core/object@19.1.2
+
 ## 8.0.3
 
 ### Patch Changes
