@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 8.0.5
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/number@6.0.2
+  - @ctx-core/object@19.1.3
+
 ## 8.0.4
 
 ### Patch Changes
