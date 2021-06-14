@@ -1,5 +1,17 @@
 # @ctx-core/currency
 
+## 9.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/number@7.0.0
+  - @ctx-core/object@20.0.0
+
 ## 8.0.8
 
 ### Patch Changes
