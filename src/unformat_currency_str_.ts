@@ -10,7 +10,8 @@ export function unformat_currency_str_(
 ):string|nullish {
 	return (
 		amount == null
-		? ((params as currency_str_default_params_I)?.default || amount)
+		? (
+			(params as currency_str_default_params_I)?.default || null)
 		: (
 			no_comma_str_(
 				amount

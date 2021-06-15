@@ -6,7 +6,7 @@ import { currency_symbol_ } from './currency_symbol_';
 export function unformat_currency_str_(amount, params) {
     var _a;
     return (amount == null
-        ? (((_a = params) === null || _a === void 0 ? void 0 : _a.default) || amount)
+        ? (((_a = params) === null || _a === void 0 ? void 0 : _a.default) || null)
         : (no_comma_str_(amount
             .toString()
             .replace(currency_symbol_(params), ''))));
