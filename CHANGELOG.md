@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 9.0.4
+
+### Patch Changes
+
+- fix build
+
 ## 9.0.3
 
 ### Patch Changes
