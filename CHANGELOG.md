@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 9.0.9
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.7
+  - @ctx-core/number@7.0.7
+  - @ctx-core/object@20.0.8
+
 ## 9.0.8
 
 ### Patch Changes
