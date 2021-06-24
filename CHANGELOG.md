@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 9.0.11
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.8
+  - @ctx-core/number@7.0.8
+  - @ctx-core/object@20.1.1
+
 ## 9.0.10
 
 ### Patch Changes
