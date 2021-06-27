@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "9.0.15",
+	"version": "9.0.16",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -16,20 +16,20 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "./src/index.js",
-	"module": "./src/index.js",
-	"types": "./src/index.d.ts",
+	"main": "./dist/index.js",
+	"module": "./dist/index.js",
+	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
-		"prepublishOnly": "npm run clean && npm run compile"
+		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^19.1.9",
-		"@ctx-core/number": "workspace:^7.0.8",
-		"@ctx-core/object": "workspace:^20.2.1"
+		"@ctx-core/function": "workspace:^19.1.10",
+		"@ctx-core/number": "workspace:^7.0.9",
+		"@ctx-core/object": "workspace:^20.2.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
