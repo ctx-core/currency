@@ -1,5 +1,5 @@
-import type { currency_code_ctx_T } from './currency_code_ctx_T'
-import { currencies } from './currencies'
+import type { currency_code_ctx_T } from './currency_code_ctx_T.js'
+import { currencies } from './currencies.js'
 /**
  * Returns the symbol for the given `currency_code_.currency`. Defaults to `$`
  * @See {@link https://github.com/bengourley/currency-symbol-map}

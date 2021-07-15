@@ -1,6 +1,6 @@
-import { currency_symbol_ } from './currency_symbol_'
-import { money_str_ } from './money_str_'
-import type { currency_str_default_params_I } from './currency_str_default_params_I'
+import { currency_symbol_ } from './currency_symbol_.js'
+import { money_str_ } from './money_str_.js'
+import type { currency_str_default_params_I } from './currency_str_default_params_I.js'
 /**
  * Formats currency to USD ($) with commas
  * @example
