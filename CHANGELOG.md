@@ -1,5 +1,18 @@
 # @ctx-core/currency
 
+## 10.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.0
+  - @ctx-core/number@8.0.0
+  - @ctx-core/object@21.0.0
+
 ## 9.0.25
 
 ### Patch Changes
