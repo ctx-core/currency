@@ -1,5 +1,13 @@
 # @ctx-core/currency
 
+## 10.0.33
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/number@8.0.25
+
 ## 10.0.32
 
 ### Patch Changes
