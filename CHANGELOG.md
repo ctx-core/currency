@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.37
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/function@20.2.15
+  - @ctx-core/number@8.0.29
+  - @ctx-core/object@22.0.3
+
 ## 10.0.36
 
 ### Patch Changes
