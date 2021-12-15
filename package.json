@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "10.0.35",
+	"version": "10.0.36",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/currency/issues"
+		"url": "https://github.com/ctx-core/currency.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,9 +32,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.13",
-		"@ctx-core/number": "workspace:^8.0.27",
-		"@ctx-core/object": "workspace:^22.0.1"
+		"@ctx-core/function": "workspace:^20.2.14",
+		"@ctx-core/number": "workspace:^8.0.28",
+		"@ctx-core/object": "workspace:^22.0.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
