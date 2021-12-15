@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.35
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/function@20.2.13
+  - @ctx-core/number@8.0.27
+  - @ctx-core/object@22.0.1
+
 ## 10.0.34
 
 ### Patch Changes
