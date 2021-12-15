@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.38
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/function@20.2.16
+  - @ctx-core/number@8.0.30
+  - @ctx-core/object@22.0.4
+
 ## 10.0.37
 
 ### Patch Changes
