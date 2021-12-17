@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.42
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/function@20.2.20
+  - @ctx-core/number@8.0.34
+  - @ctx-core/object@22.0.8
+
 ## 10.0.41
 
 ### Patch Changes
