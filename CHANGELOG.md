@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.41
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/function@20.2.19
+  - @ctx-core/number@8.0.33
+  - @ctx-core/object@22.0.7
+
 ## 10.0.40
 
 ### Patch Changes
