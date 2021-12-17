@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.40
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/function@20.2.18
+  - @ctx-core/number@8.0.32
+  - @ctx-core/object@22.0.6
+
 ## 10.0.39
 
 ### Patch Changes
