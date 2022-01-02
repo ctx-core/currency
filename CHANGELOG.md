@@ -1,5 +1,14 @@
 # @ctx-core/currency
 
+## 10.0.43
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/function@20.2.21
+  - @ctx-core/number@8.0.35
+
 ## 10.0.42
 
 ### Patch Changes
