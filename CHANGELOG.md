@@ -1,5 +1,16 @@
 # @ctx-core/currency
 
+## 10.0.45
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/function@20.2.24
+  - @ctx-core/object@22.0.11
+  - @ctx-core/number@8.0.37
+
 ## 10.0.44
 
 ### Patch Changes
