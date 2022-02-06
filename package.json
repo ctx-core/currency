@@ -35,9 +35,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.4.0",
-		"@ctx-core/number": "workspace:^8.0.38",
-		"@ctx-core/object": "workspace:^22.0.13"
+		"@ctx-core/function": "^20.4.0",
+		"@ctx-core/number": "^8.0.38",
+		"@ctx-core/object": "^22.0.13"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
