@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.0.50
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/function@20.6.1
+  - @ctx-core/number@8.0.39
+  - @ctx-core/object@22.1.4
+
 ## 10.0.49
 
 ### Patch Changes
