@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.0.55
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.54
 
 ### Patch Changes
