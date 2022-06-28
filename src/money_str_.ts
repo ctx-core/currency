@@ -1,4 +1,4 @@
-import type { nullish } from '@ctx-core/function'
+import { type nullish } from '@ctx-core/function'
 import { comma_number_str_, isNumber } from '@ctx-core/number'
 import type { money_str_params_I } from './money_str_params_I.js'
 /**

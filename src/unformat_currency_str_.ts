@@ -1,4 +1,4 @@
-import type { nullish } from '@ctx-core/function'
+import { type nullish } from '@ctx-core/function'
 import { no_comma_str_ } from '@ctx-core/number'
 import { currency_symbol_ } from './currency_symbol_.js'
 import type { currency_str_default_params_I } from './currency_str_default_params_I.js'
