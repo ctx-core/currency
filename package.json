@@ -34,12 +34,12 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^21.0.1",
-		"@ctx-core/number": "^8.3.1",
+		"@ctx-core/number": "^8.4.0",
 		"@ctx-core/object": "^22.2.7"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.244",
+		"@swc/core": "^1.2.245",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
