@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.0.67
+
+### Patch Changes
+
+- isNumber\_ instead of isNumber
+
 ## 10.0.66
 
 ### Patch Changes
