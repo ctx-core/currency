@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "10.0.73",
+	"version": "10.0.74",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/function": "^21.6.0",
 		"@ctx-core/number": "^8.6.0",
-		"@ctx-core/object": "^22.9.0"
+		"@ctx-core/object": "^22.9.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
