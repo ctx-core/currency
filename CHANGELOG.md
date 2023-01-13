@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.0.79
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 10.0.78
 
 ### Patch Changes
