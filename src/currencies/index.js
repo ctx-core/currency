@@ -1,4 +1,4 @@
-export const currencies: currencies_T = {
+export const currencies = {
 	ALL: 'L',
 	AFN: '؋',
 	ARS: '$',
@@ -118,4 +118,3 @@ export const currencies: currencies_T = {
 	GEL: '₾',
 	KZT: '₸'
 }
-export interface currencies_T extends Record<string, string> {}
