@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "10.1.7",
+	"version": "10.1.8",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/function": "^21.8.0",
 		"@ctx-core/number": "^8.6.1",
-		"@ctx-core/object": "^25.1.0"
+		"@ctx-core/object": "^25.2.0"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
