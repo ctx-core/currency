@@ -1,5 +1,13 @@
 # @ctx-core/currency
 
+## 10.1.18
+
+### Patch Changes
+
+- jsdoc: fix: @see {@link ...}
+- Updated dependencies
+  - @ctx-core/function@21.12.1
+
 ## 10.1.17
 
 ### Patch Changes
