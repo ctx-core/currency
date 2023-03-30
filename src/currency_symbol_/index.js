@@ -6,7 +6,13 @@ import { currencies } from '../currencies/index.js'
  * @see {@link https://raw.githubusercontent.com/bengourley/currency-symbol-map/master/map.js}
  */
 export function currency_symbol_(currency_code_) {
-	const currency_code = currency_code_ && (currency_code_.currency_code || currency_code_.currency) || currency_code_
+	const currency_code =
+		currency_code_
+		&& (
+			currency_code_.currency_code
+			|| currency_code_.currency
+		)
+		|| currency_code_
 	const currency_symbol = currencies[currency_code] || '$'
 	return currency_symbol
 }

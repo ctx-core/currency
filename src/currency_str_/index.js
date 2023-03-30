@@ -13,7 +13,11 @@ export function currency_str_(
 	amount, params
 ) {
 	const amount_num = parseFloat(amount)
-	return Number.isNaN(amount_num) ? params && params.default || '' : `${currency_symbol_(params)}${money_str_(amount_num, params)}`
+	return (
+		Number.isNaN(amount_num)
+		? params && params.default || ''
+		: `${currency_symbol_(params)}${money_str_(amount_num, params)}`
+	)
 }
 export {
 	currency_str_ as _currency_str,

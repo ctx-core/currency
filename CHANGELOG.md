@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.1.26
+
+### Patch Changes
+
+- money*str*: ∋ nullish*check*
+
 ## 10.1.25
 
 ### Patch Changes
