@@ -1,6 +1,6 @@
 import { currency_str_ } from '../currency_str_/index.js'
 /**
- * @param params{import('../_types').currency_str__default_params_T|string}
+ * @param {import('../_types').currency_str__default_params_T|string}params
  * @returns {(amount:number)=>string}
  */
 export function currency_str__(params) {

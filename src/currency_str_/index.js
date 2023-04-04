@@ -2,15 +2,16 @@ import { currency_symbol_ } from '../currency_symbol_/index.js'
 import { money_str_ } from '../money_str_/index.js'
 /**
  * Formats currency to USD ($) with commas
- * @param amount{string|number}
- * @param params{import('../_types').currency_str__default_params_T|string}
+ * @param {string|number}amount
+ * @param {import('../_types').currency_str__default_params_T|string}params
  * @returns {string} * @example
  * currency_str_(1000000) // $1,000,000.00
  * @example
  * currency_str_(1000000, {digits: 0}) // $1,000,000
  */
 export function currency_str_(
-	amount, params
+	amount,
+	params
 ) {
 	const amount_num = parseFloat(amount)
 	return (
