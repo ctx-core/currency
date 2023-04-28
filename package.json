@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/currency",
-	"version": "10.1.53",
+	"version": "10.1.54",
 	"description": "ctx-core currency",
 	"keywords": [
 		"ctx-core",
@@ -33,9 +33,9 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^21.17.19",
+		"@ctx-core/function": "^21.18.0",
 		"@ctx-core/number": "^8.6.22",
-		"@ctx-core/object": "^27.4.23"
+		"@ctx-core/object": "^27.4.24"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
