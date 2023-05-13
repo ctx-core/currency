@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.1.56
+
+### Patch Changes
+
+- @ctx-core/object: ^27.4.25 -> ^27.4.26
+
 ## 10.1.55
 
 ### Patch Changes
