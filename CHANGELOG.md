@@ -1,5 +1,12 @@
 # @ctx-core/currency
 
+## 10.1.62
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/object@28.0.0
+
 ## 10.1.61
 
 ### Patch Changes
