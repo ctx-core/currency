@@ -1,5 +1,5 @@
 import { comma_number_str_, isNumber_ } from '@ctx-core/number'
-import { nullish__check_ } from '@ctx-core/function'
+import { nullish__none_ } from '@ctx-core/function'
 /**
  * Formats money value with commas (no currency type)
  * @param {number}amount
@@ -10,7 +10,7 @@ export function money_str_(
 	amount,
 	params
 ) {
-	return nullish__check_([amount], ()=>{
+	return nullish__none_([amount], ()=>{
 		const digits =
 			isNumber_(params && params.digits)
 			? params && params.digits
