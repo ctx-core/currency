@@ -1,5 +1,15 @@
 # @ctx-core/currency
 
+## 10.1.72
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/function@21.20.2
+  - @ctx-core/number@8.6.24
+  - @ctx-core/object@28.2.1
+
 ## 10.1.71
 
 ### Patch Changes
