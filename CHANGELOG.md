@@ -1,5 +1,13 @@
 # @ctx-core/currency
 
+## 10.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - ctx-core@2.2.1
+
 ## 10.2.1
 
 ### Patch Changes
