@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.2.16
+
+### Patch Changes
+
+- ctx-core: ^3.3.3 -> ^3.4.0
+
 ## 10.2.15
 
 ### Patch Changes
