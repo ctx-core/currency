@@ -1,5 +1,11 @@
 # @ctx-core/currency
 
+## 10.2.167
+
+### Patch Changes
+
+- ctx-core: ^7.0.1 -> ^7.0.2
+
 ## 10.2.166
 
 ### Patch Changes
